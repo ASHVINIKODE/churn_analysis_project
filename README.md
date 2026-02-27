@@ -1,8 +1,20 @@
 # 📊 End-to-End Churn Analysis Project  
 ### SQL Server | Power BI | Python | Machine Learning
 
+---
+
 ## 🔍 Project Overview
 This project demonstrates a complete data pipeline for customer churn prediction using SQL Server for ETL, Power BI for visualization, and Python for machine learning. The goal is to analyze customer behavior, identify churn patterns, and predict churn using a Random Forest model.
+
+---
+
+## 📸 Project Dashboards
+
+### Customer Churn Prediction Dashboard
+![Customer Churn Prediction Dashboard](images/CustomerChurnPredictionDashboard.png)
+
+### Churn Analysis Dashboard
+![Churn Analysis Dashboard](images/churn_analysis_dashboard.png)
 
 ---
 
