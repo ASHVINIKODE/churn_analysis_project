@@ -11,7 +11,7 @@ This project demonstrates a complete data pipeline for customer churn prediction
 ## 📸 Project Dashboards
 
 ### Customer Churn Prediction Dashboard
-![Customer Churn Prediction Dashboard](images/CustomerChurnPredictionDashboard.png)
+![Customer Churn Prediction Dashboard](images/CustomerChurnPredictionDashboardd.png)
 
 ### Churn Analysis Dashboard
 ![Churn Analysis Dashboard](images/ChurnAnalysisDashboard.png)
